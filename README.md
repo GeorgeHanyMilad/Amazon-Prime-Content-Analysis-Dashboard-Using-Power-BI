@@ -1,6 +1,6 @@
 # 📊 Amazon Prime Movies & TV Shows Analysis Dashboard
 
-![Banner](https://your-banner-link.com/banner-image.png)
+![Banner](https://github.com/GeorgeHanyMilad/Amazon-Prime-Content-Analysis-Dashboard-Using-Power-BI/blob/master/Banner.png?raw=true)
 
 ## 📌 Project Overview
 
@@ -70,7 +70,7 @@ The dashboard includes several dynamic visualizations built using Power BI:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](https://your-dashboard-link.com/dashboard-image.png)
+![Dashboard](https://github.com/GeorgeHanyMilad/Amazon-Prime-Content-Analysis-Dashboard-Using-Power-BI/blob/master/Dashboard.jpg?raw=true)
 
 ---
 
