@@ -1,4 +1,4 @@
-# 📊 Amazon Prime Movies & TV Shows Analysis Dashboard
+# 📊 Amazon Prime Content Insights Dashboard
 
 ![Banner](https://github.com/GeorgeHanyMilad/Amazon-Prime-Content-Analysis-Dashboard-Using-Power-BI/blob/master/Banner.png?raw=true)
 
